@@ -1,0 +1,233 @@
+﻿[
+{
+"producto": "Aadvantage",
+"cat": "42.20%",
+"Tasa_pond": "32.40%",
+"id_producto": "810440",
+"id_page": "Aadvantage_cat"
+},
+{
+"producto": "Aeromexico Gold",
+"cat": "36.9%",
+"Tasa_pond": "26.5%",
+"id_producto": "850597",
+"id_page": "AeromexicoG_cat"
+},
+{
+"producto": "Aeromexico Platinum",
+"cat": "33.90%",
+"Tasa_pond": "21.70%",
+"id_producto": "860598",
+"id_page": "AeromexicoP_cat"
+},
+{
+"producto": "Affinity Card",
+"cat": "44.30%",
+"Tasa_pond": "32.50%",
+"id_producto": "914449",
+"id_page": "AffinityC_cat"
+},
+{
+"producto": "Afinidad ClÃ¡sica",
+"cat": "49.20%",
+"Tasa_pond": "35.90%",
+"id_producto": "",
+"id_page": "AfinidadC_cat"
+},
+{
+"producto": "APAC",
+"cat": "49.20%",
+"Tasa_pond": "",
+"id_producto": "",
+"id_page": "APAC_cat"
+},
+{
+"producto": "PUMAS",
+"cat": "49.20%",
+"Tasa_pond": "35.90%",
+"id_producto": "",
+"id_page": "PUMAS_cat"
+},
+{
+"producto": "TIGRES",
+"cat": "49.20%",
+"Tasa_pond": "35.90%",
+"id_producto": "",
+"id_page": "TIGRES_cat"
+},
+{
+"producto": "TOLUCA",
+"cat": "49.20%",
+"Tasa_pond": "35.90%",
+"id_producto": "",
+"id_page": "TOLUCA_cat"
+},
+{
+"producto": "LA VERDE",
+"cat": "49.20%",
+"Tasa_pond": "35.90%",
+"id_producto": "",
+"id_page": "VERDE_cat"
+},
+{
+"producto": "CRUZ AZUL",
+"cat": "49.20%",
+"Tasa_pond": "35.90%",
+"id_producto": "",
+"id_page": "CRUZ_AZUL_cat"
+},
+{
+"producto": "AMERICA",
+"cat": "49.20%",
+"Tasa_pond": "35.90%",
+"id_producto": "",
+"id_page": "AMERICA_cat"
+},
+{
+"producto": "Best Buy Cobranded",
+"cat": "42.90%",
+"Tasa_pond": "31.50%",
+"id_producto": "",
+"id_page": "BestBuyCob_cat"
+},
+{
+"producto": "Bsmart",
+"cat": "45.50%",
+"Tasa_pond": "33.40%",
+"id_producto": "",
+"id_page": "Bsmart_cat"
+},
+{
+"producto": "Bsmart College",
+"cat": "50.30%",
+"Tasa_pond": "39.00%",
+"id_producto": "420190",
+"id_page": "BsmartColl_cat"
+},
+{
+"producto": "Citi Infinite (Beyond)",
+"cat": "45.50%",
+"Tasa_pond": "12.00%",
+"id_producto": "",
+"id_page": "BsmartColl_cat"
+},
+{
+"producto": "ClÃ¡sica",
+"cat": "45.5%",
+"Tasa_pond": "33.40%",
+"id_producto": "996605",
+"id_page": "Clasica_cat"
+},
+{
+"producto": "Costco",
+"cat": "47.60%",
+"Tasa_pond": "37.20%",
+"id_producto": "230310631",
+"id_page": "Costco_cat"
+},
+{
+"producto": "Deporteismo ClÃ¡sica",
+"cat": "45.30%",
+"Tasa_pond": "33.20%",
+"id_producto": "911539",
+"id_page": "Deporteismo_cat"
+},
+{
+"producto": "Deporteismo Premium",
+"cat": "20.90%",
+"Tasa_pond": "15.80%",
+"id_producto": "912536",
+"id_page": "DeporteismoPrem_cat"
+},
+{
+"producto": "Deporteismo Premium",
+"cat": "20.90%",
+"Tasa_pond": "15.80%",
+"id_producto": "912536",
+"id_page": "DeporteismoPrem_cat"
+},
+{
+"producto": "D SÃºper I",
+"cat": "47.50%",
+"Tasa_pond": "35.50%",
+"id_producto": "",
+"id_page": "DSuper_cat"
+},
+{
+"producto": "Office Depot Int.",
+"cat": "46.50%",
+"Tasa_pond": "34.10%",
+"id_producto": "913477",
+"id_page": "OfficeDepInt_cat"
+},
+{
+"producto": "Oro",
+"cat": "41.20%",
+"Tasa_pond": "32.00%",
+"id_producto": "222577",
+"id_page": "oro_cat"
+},
+{
+"producto": "Platino",
+"cat": "23.40%",
+"Tasa_pond": "17.80%",
+"id_producto": "530257",
+"id_page": "Platino_cat"
+},
+{
+"producto": "Soriana compartida",
+"cat": "47.30%",
+"Tasa_pond": "35.20%",
+"id_producto": "",
+"id_page": "SorianaComp_cat"
+},
+{
+"producto": "Soriana pagos fijos",
+"cat": "90.50%",
+"Tasa_pond": "64.40%",
+"id_producto": "",
+"id_page": "SorianaPag_cat"
+},
+{
+"producto": "Soriana privada",
+"cat": "67.90%",
+"Tasa_pond": "50.40%",
+"id_producto": "",
+"id_page": "SorianaPriv_cat"
+},
+{
+"producto": "Teleton",
+"cat": "38.70%",
+"Tasa_pond": "30.00%",
+"id_producto": "941485",
+"id_page": "Teleton_cat"
+},
+{
+"producto": "The Home Depot",
+"cat": "39.60%",
+"Tasa_pond": "29.20%",
+"id_producto": "910552",
+"id_page": "HomeDepot_cat"
+},
+{
+"producto": "Travel Pass",
+"cat": "42.10%",
+"Tasa_pond": "32.60%",
+"id_producto": "620220",
+"id_page": "TravelPass_cat"
+},
+{
+"producto": "Travel Pass Elite",
+"cat": "41.20%",
+"Tasa_pond": "28.40%",
+"id_producto": "640181",
+"id_page": "TravelPassEl_cat"
+},
+{
+"producto": "Citi Prestige",
+"cat": "25.80%",
+"Tasa_pond": "13.90%",
+"id_producto": "",
+"id_page": "CitiPres_cat"
+}
+]

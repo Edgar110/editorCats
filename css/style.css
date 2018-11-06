@@ -1,0 +1,194 @@
+body{
+	margin:0px;
+    padding:0px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+ 
+.contenedor{
+    margin:0 auto;
+    padding:0;
+    max-width:960px;
+	min-width:320px;
+    height:auto;
+}
+.right{
+	float:right !important;
+}
+.C1{
+	width:80px;
+	float:left;
+}
+.C2{
+	width:160px;
+	float:left;
+}
+.C3{
+	width:240px;
+	float:left;
+}
+.C4{
+	width:320px;
+	float:left;
+}
+.C5{
+	width:400px;
+	float:left;
+}
+.C6{
+	width:480px;
+	float:left;
+}
+.C7{
+	width:560px;
+	float:left;
+}
+.C8{
+	width:640px;
+	float:left;
+}
+.C9{
+	width:720px;
+	float:left;
+}
+.C10{
+	width:800px;
+	float:left;
+}
+.C11{
+	width:880px;
+	float:left;
+}
+.C12{
+	width:960px;
+	float:left;
+}
+ 
+.pleca_top{
+	margin:0px;
+    height:62px;
+    background-image:url('../images/sprite_nuevo_home.png');
+    background-position:0 -8px;
+	width:100%;
+	position:fixed;
+	z-index:2;
+}
+.head{
+	height:62px;
+	font-family:Arial,Helvetica,sans-serif;
+	font-size:25px;
+	color:#FFFFFF;
+ }
+a.logo{
+	background-image: url('../images/sprite_nuevo_home.png');
+	background-position: 10px -73px;
+	background-repeat: no-repeat;
+	height: 62px;
+	margin: -2px 0px 0px -12px;
+	width: 205px;
+	text-indent:-99999px;
+	display:block;
+	float:left;
+}
+.titleh{
+	height:27px;
+	float:left;
+	margin-top:15px;
+	margin-left:20px;
+}
+.content{
+	position:absolute;
+	z-index:0;
+}
+.botones{
+	position:fixed;
+	background-color:#FFFFFF;
+	padding:90px 0px 30px 0px;
+	z-index:1;
+}
+ .fileUpload {
+	color:#FFF;
+	font-size:15px;
+	text-align:center;
+	background-color:#ef7a08;
+	position:relative;
+	border-radius:5px;
+	height:20px;
+	width:180px;
+	padding:5px 0px;
+}
+.fileUpload input.upload{
+    position: absolute;
+	left:0px;
+    top: 0px;
+    margin: 0px;
+    padding: 0px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+.download{
+	background-color: #ef7a08;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 15px;
+    height: 20px;
+    padding: 5px 0;
+    position: relative;
+    text-align: center;	
+	width:160px;
+}
+.download input.dwnld{
+	position:absolute;
+	left:0px;
+	top:0px;
+	margin:0px;
+	padding:0px;
+	cursor:pointer;
+	opacity:0;
+	filter:alpha(opacity=0);
+}
+.content{
+	position:relative;
+	z-index:-1;
+}
+.table_cats{
+	position:absolute;
+	top:155px;
+}
+.table_cats tbody tr:nth-child(even) {background: #CCC}
+.table_cats tbody tr:nth-child(odd) {background:#F1F1F1;}
+.table_cats td{
+	border-right:1px solid #A8A8A8;
+	border-top:1px solid #A8A8A8;
+}
+.table_cats .last{
+	border-right:none;
+}
+tbody{
+	position:absolute;
+	top:31px;
+}
+thead{
+	position:fixed;
+	font-size:12px;
+	background-color:#FFF;
+}
+thead th{
+	border-right:1px solid #A8A8A8;
+	border-top:1px solid #A8A8A8;
+	color:#05589d;
+}
+.txt{
+	height:20px;
+	font-size:12px;
+	color:#1e1e1e;
+	border:none;
+	background:none;
+	width:95%;
+	text-align:center;
+	padding:5px 0px;
+}
+.txt.first{
+	text-align:left;
+	padding-left:5px;
+}

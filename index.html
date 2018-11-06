@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/tr/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
+    <title>index</title>
+  </head>
+  <body>
+  	<div id="encabezado"></div>
+  	<div class="pleca_top">
+    	<div class="contenedor">
+            <div class="head C12">
+                <a href="#"  class="logo" border="0">Banamex</a>
+                <div class="titleh">Editar Cats Banamex</div>        	
+            </div>
+        </div>
+    </div>
+    <div class="contenedor">
+    	<div class="botones C12">
+            <div class="C4 fileUpload">
+            	<label>Seleccionar archivo</label>
+            	<input type="file" class="upload" id="load" accept=".json" onchange="json.load(event)">
+            </div>            
+            <div class="right C2 download">
+            	<label>Descargar archivo</label>
+                <input type="button" value="Descargar Archivo" onclick="json.genera()" class="dwnld">
+            </div>            
+        </div>
+        <div class="table_cats C12">        
+        	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+                <thead>
+                    <tr id="first">
+                        <th width="292">PRODUCTO</th>
+                        <th width="50">CAT</th>
+                        <th width="100">TASA<br />PONDERADA</th>
+                        <th width="100">ID<br />PRODUCTO</th>
+                        <th width="80">ID<br />PAGE</th>
+                        <th width="100">COMISIÓN<br />ANUAL</th>
+                        <th width="100">FECHA DE<br />CALCULO</th>
+                        <th width="100">LÍNEA DE<br />CRÉDITO</th>
+                        <th align="center" width="30" class="last"><a href="#"><img src="images/plus.png" width="20" height="20" border="0" alt="..."></a></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr id="bod">
+                        <td width="292"><input type="text" class="txt first"></td>
+                        <td width="50"><input type="text" class="txt"></td>
+                        <td width="100"><input type="text" class="txt"></td>
+                        <td width="100"><input type="text" class="txt"></td>
+                        <td width="80"><input type="text" class="txt"></td>
+                        <td width="100"><input type="text" class="txt"></td>
+                        <td width="100"><input type="text" class="txt"></td>
+                        <td width="100"><input type="text" class="txt"></td>
+                        <td align="center" width="30" class="last"><a href="#"><img src="images/delete.png" width="20" height="20" border="0" alt="..."></a></td>
+                    </tr>
+                </tbody>
+			</table>
+		</div>        
+    </div>
+  </body>
+  <script type="text/javascript" src="js/jquery-1.11.3.min.js"></script>
+  <script type="text/javascript" src="js/motor_e.js"></script>
+</html>
